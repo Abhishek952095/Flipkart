@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../Amazon Clone"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Flipcart clone"
+	}
+}
